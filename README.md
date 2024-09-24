@@ -5,8 +5,6 @@
 
 ### <div align="center">I'm Rahmad, I am a cyber security enthusiast and learning to be a programmer 🖥️</div>  
   
-
-- 🔭I'm a student from [SMK Negeri 1 Batam ](https://smkn1batam.sch.id/)  
   
 
 - 🌱 I’m currently learning C and Python language  
